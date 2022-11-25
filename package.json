@@ -6,6 +6,8 @@
     "react-icons": "^4.6.0"
   },
   "devDependencies": {
-    "gh-pages": "^4.0.0"
+    "gh-pages": "^4.0.0",
+    "install": "^0.13.0",
+    "npm": "^9.1.2"
   }
 }
