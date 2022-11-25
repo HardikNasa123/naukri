@@ -1,0 +1,50 @@
+
+.job_box {
+  
+   margin:20px;
+    text-align: left;
+    padding: 15px;
+    background:#fff;
+    border: 1px solid black;
+    width: 275px;
+    height: 202px;
+    border-radius: 10px;
+    background: whitesmoke;
+    
+}
+.row
+{
+    display:flex;
+    justify-content: space-between;
+    width: 90vw;
+    margin-right: 5vw;
+    margin-left: 5vw;
+    position: relative;
+
+}
+.kisn
+{
+    
+    font: normal normal bold Helvetica Neue;
+    position: absolute;
+    padding:60px;
+    width: 90vw;
+    height: 10px;
+    margin-right: 5vw;
+    margin-left: 1vw;
+    
+}
+
+.paginate{
+    /* Layout Properties */
+top: 803px;
+left: 705px;
+width: 120px;
+height: 30px; 
+margin:0 auto;
+/* margin-inline: 10px; */
+/* UI Properties */
+background: #43AFFF33 0% 0% no-repeat padding-box;
+border-radius: 5px;
+opacity: 1;
+}
